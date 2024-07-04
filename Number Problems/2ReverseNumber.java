@@ -1,3 +1,4 @@
+// 123 --> 321
 import java.util.Scanner;
 class Demo2
 {
