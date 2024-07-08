@@ -1,3 +1,4 @@
+// Static variables 
 class Laptop
 {
 	static String brand;
